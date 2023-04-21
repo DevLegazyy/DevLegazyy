@@ -1,16 +1,15 @@
-### Hi there 👋
+<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
 
-<!--
-**DevLegazyy/DevLegazyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Hello World ☕</h2>
 
-Here are some ideas to get you started:
+<p>Eu sou o Legacyy, Sou programador a mais de 1 ano e estou querendo expandir na comunidade brasileir.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<h3>Caso queira acompanhar meus conteúdos:</h3> 
+
+<div align="left">
+  <a href="https://www.instagram.com/legacyyy/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+  </a>
+</div>
