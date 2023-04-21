@@ -1,4 +1,4 @@
-<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo iuricode">
+<img src="logo.svg" width="300px" min-width="300px" max-width="300px" align="right" alt="Logo Legazyy">
 
 <h2>Hello World ☕</h2>
 
